@@ -7268,10 +7268,11 @@ panel-toplevel.background button:active:not(#tasklist-button), .xfce4-panel butt
 }
 
 XfdesktopIconView.view {
+  font-weight: 700;
   border-radius: 2px;
   background: transparent;
   color: #ffffff;
-  text-shadow: 0 0 1px rgba(0, 0, 0, 0.26), 0 1px 2px rgba(0, 0, 0, 0.32), 0 2px 3px rgba(0, 0, 0, 0.12);
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5), 0 1px 2px rgba(0, 0, 0, 0.5), 0 2px 3px rgba(0, 0, 0, 0.5);
 }
 
 XfdesktopIconView.view:active, XfdesktopIconView.view:checked {

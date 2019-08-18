@@ -21,4 +21,4 @@ include "main.rc"
 include "apps.rc"
 include "xfdesktop.rc"
 include "menubar-toolbar/menubar-toolbar.rc"
-
+include "xfce-settings.rc"
